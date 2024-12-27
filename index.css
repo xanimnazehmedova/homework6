@@ -21,7 +21,7 @@ p:nth-child(3){
     text-align: right;
 }
 h1{
-    text-shadow: 5px 5px black;
+    text-shadow: 5px 5px 5px black;
     text-align: center;
     font-family: Montserrat;
 }
