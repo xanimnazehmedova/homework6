@@ -1,0 +1,12 @@
+1.Bir HTML səhifəsi yaradın və 3 fərqli paragraf əlavə edin. Paragrafların:
+
+Birincisini sola hizalayın və altından xətt çəkin.
+İkincisini mərkəzə hizalayın və üstündən xətt çəkin.
+Üçüncüsünü sağa hizalayın və xətt çəkmədən saxlayın.
+
+2.Başlığa (h1) qara rəngdə və 5px kölgə əlavə edin.
+3.Bir uzun məqalə mətninə sətrlər və hərflər arasına boşluq əlavə edin.
+4.Bir div elementinə arxa plan şəkli əlavə edin və onu tam şəkildə örtməsini təmin edin.
+5.Div elementinə boz rəngdə arxa plan verin və 10px qara kölgə əlavə edin.
+
+
